@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "up_version": "0",
+  "up_version": "1",
   "topBanner": "price_per_week",
   "bottomBanner": "three_days_free_trial",
   "releaseNotes": "Initial release."
